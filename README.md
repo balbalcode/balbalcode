@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balbalcode
 - 👀 I’m interested in javascript languages, also in php
-- 🌱 I’m currently learning react, next and angular for completing my skill as a frontend developer.
+- 🌱 I’m currently learning about advanced of vue and nuxt (also javascript).
 - 💞️ I’m looking to collaborate on fully tech company also as frontend developer
 - 📫 You can reacth me at linked-in at https://www.linkedin.com/in/ikbal-maulana/
 
